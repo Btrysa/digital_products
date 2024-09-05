@@ -1,3 +1,6 @@
 #Djanog
 Django==4.2.14
 djangorestframework==3.15.2
+
+#phote and image
+pillow==10.4.0
